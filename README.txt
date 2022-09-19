@@ -7,3 +7,4 @@ First of all you need pgAdmin 4 program.
 3. Run the ClientRun.
 
 If you have some troubles with DB, then try to set your own username, password of pgAdmin 4, url of DB in com/common/DBManager Java class.
+If you have some troubles with Socket and ServerSocket, then try to change port.
